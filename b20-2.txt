@@ -1,0 +1,1 @@
+Now we should commit the second file to check again.
